@@ -50,7 +50,8 @@ The time series model
 
 The app result
 
-![Screen Shot 2022-06-04 at 3 07 37 PM](https://user-images.githubusercontent.com/90358148/172024051-09e7c84d-ed4d-4277-b63e-6ab70ee2a539.png)
+
+![Screen Shot 2022-06-04 at 3 08 45 PM](https://user-images.githubusercontent.com/90358148/172024113-673c597d-823c-46f8-9540-6903ccc06c4f.png)
 
 
 
