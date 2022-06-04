@@ -1,0 +1,32 @@
+# libraries we want to use
+pytest
+pylint
+jupyter
+pytest-cov
+pandas
+nbval
+click
+flask
+Flask
+google-cloud-bigquery
+google
+flask_restful
+google-cloud-bigquery-storage
+pylint-flask
+black
+requests
+gunicorn
+dash_bootstrap_components == 1.0.2
+numpy
+werkzeug == 2.0.0
+db_dtypes
+plotly
+plotly_express
+dash
+dash-html-components
+dash-core-components
+dash-table
+dash-daq
+dash-renderer
+Dash
+pandas
