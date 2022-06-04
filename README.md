@@ -1,5 +1,5 @@
 # myapp
-This app was deployed via a CI/CD pipeline and hosted on Google Cloud Platform. The app produces 14 days forecast of number of COVID-19 cases in Romania. For my application, I used Johns Hopkins dataset of COVID-19 confirmed cases available in BigQuery.
+This app was deployed via a CI/CD pipeline and hosted on Google Cloud Platform. The app produces 14 days forecast of number of COVID-19 cases in Romania. For my application, I used Johns Hopkins COVID-19 confirmed cases dataset available in BigQuery.
 
 The first six entries on April 2, 2020.
 
